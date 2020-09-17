@@ -17,7 +17,6 @@ static int num;
 
     public static void main(String[] args) {
          num=Utils.getNumber("roll");
-
         System.out.println(rollTheDice(num));
 
     }
